@@ -1,0 +1,10 @@
+{
+    "name": "job-intern-tracker-server",
+    "version": "1.0.0",
+    "description": "Job and Internship Tracker backend",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    }
+}
